@@ -1,0 +1,36 @@
+.logo{
+    text-align: center;
+}
+
+.titulo{
+    background-color: rgb(196,196,196);
+    color:rgb(3, 86, 117);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5pt;
+    
+}
+
+.subtitulo{
+    background-color: rgb(196,196,196);
+    color:rgb(3, 86, 117);
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 5pt;  
+}
+
+.lista{
+    font-family: 'Times New Roman', Times, serif;   
+}
+
+.piePagina{
+    background-color: rgb(3, 86, 117);
+    text-align: center;
+    color: white;
+}
+
+.textoSeparado{
+    text-indent:80px;
+}
+    
