@@ -12,12 +12,25 @@
     
 }
 
+.textoIndentado {
+    text-indent: 76px;
+}
+
 .subtitulo{
     background-color: rgb(196,196,196);
     color:rgb(3, 86, 117);
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
     letter-spacing: 5pt;  
+}
+
+.sinStyle{
+    list-style-type:none;
+}
+
+.prueba{
+    margin:0;
+
 }
 
 .lista{
@@ -28,8 +41,8 @@
     background-color: rgb(3, 86, 117);
     text-align: center;
     color: white;
+    border: 5px solid rgb(3, 86, 117) ;
 }
 
-.textoSeparado{
-    text-indent:80px;
-}
+
+    
